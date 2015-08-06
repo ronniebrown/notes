@@ -5,7 +5,7 @@ var {
   View,
   Image,
   StyleSheet
-}
+} = React;
 
 var styles = StyleSheet.create({
   container: {
