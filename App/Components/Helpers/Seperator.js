@@ -17,7 +17,7 @@ var styles = StyleSheet.create({
 class Seperator extends React.Component{
   render() {
     return (
-      <View style={syles.seperator} />
+      <View style={styles.seperator} />
     )
   }
 };

@@ -55,7 +55,7 @@ class Repositories extends React.Component{
             {desc}
           </View>
           <Seperator />
-        </View
+        </View>
       )
     })
     return (
